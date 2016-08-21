@@ -1,0 +1,33 @@
+{
+  "name": "biketown-tests",
+  "version": "1.0.0",
+  "description": "Trying out the Biketown API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adron/biketown-tests.git"
+  },
+  "keywords": [
+    "bike",
+    "bicycling",
+    "bicycle",
+    "cycle",
+    "cycling",
+    "riding",
+    "bikeshare",
+    "share",
+    "economy",
+    "sharing",
+    "economy",
+    "sharing"
+  ],
+  "author": "Adron Hall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Adron/biketown-tests/issues"
+  },
+  "homepage": "https://github.com/Adron/biketown-tests#readme"
+}
